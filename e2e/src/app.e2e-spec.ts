@@ -1,5 +1,6 @@
 import { AppPage } from './app.po';
 import { browser, logging } from 'protractor';
+import { jasmine } from '../../node_modules/jasmine';
 
 describe('workspace-project App', () => {
   let page: AppPage;
